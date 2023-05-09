@@ -7,7 +7,7 @@
 
 - 🌱 Estou aprendendo **VueJs, MongoDb, Angular**
 
-- 💬 Pergunte-me sobre **react, javascript, html, sass, bootstrap**
+- 💬 Pergunte-me sobre ** Javascript, html, React, MySql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
