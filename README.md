@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, me chamo Terezinha Fonseca</h1>
-<h3 align="center">Sou desenvolvedora full stack</h3>
+<h3 align="center">Sou desenvolvedora FullStack</h3>
 
 ![Ao](https://user-images.githubusercontent.com/111810333/230788641-8e1a656b-e44f-422b-962b-49e4f7c96b51.gif)
 
